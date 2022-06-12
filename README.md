@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samguli
-- 👀 I’m interested in Frontend web development 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to work for a company, startup and etc asa junior developer
+- 👀 I’m experienced QA Engineer
+- 🌱 I have basic, in some points intermediate understanding of web development tools/languages like HTML, CSS, JS and REACT
+- 💞️ I’m looking for a job for a company, startup and etc as a SDET
 - 📫 How to reach me guliyev.samir@outlook.de 
 
 <!---
